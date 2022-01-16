@@ -1,3 +1,8 @@
+Read Me! Lmao
+
+
+
+
 #Setup Username and Email
 git config --global user.name "Haris Ali Khan"
 git config --global user.email harisalikhan13@gmail.com
